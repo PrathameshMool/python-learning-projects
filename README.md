@@ -1,1 +1,2 @@
-# My introduction to python work
+# Coin detection python work
+
